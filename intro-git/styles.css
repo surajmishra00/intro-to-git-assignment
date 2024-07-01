@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+}
+
+.founder-card {
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px rgb(228, 226, 226);
+    display: inline-block;
+    /* background-color: yellow; */
+    padding: .2%;
+    border-radius: 2%;
+    margin-left: 3%;
+}
+
+.founder-card p {
+    color: grey;
+    margin-top: 0;
+    /* background-color: brown; */
+}
+
+.founder-card h3 {
+    margin-top: .2rem;
+}
